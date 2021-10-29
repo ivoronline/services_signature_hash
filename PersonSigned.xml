@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><Person><name>John</name><age>20</age><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>PxmvRsQSxek1iLl/BIsSfTHoY1M=</DigestValue></Reference></SignedInfo><SignatureValue>gOCSBuT237OH/2nrrW2nrPqS2sy+XbsdT7xSDCAx+XhjG2Ff5EHOkUdgCwURmGzm1Sq8QlHVQu59&#xD;
+nvzOgkmNDZqpKAsDjLuKqd7/jVTx+Krc81tkwKarjwVl5qKKEBZ8D8tryGJF6FOe5o9D2oB43TYN&#xD;
+V+9eE4xcxfmNaTNe0waQVRPrHNMHRgayLu/F06klbn613Cq4ENSKXDD+MAwn+LoHd3iym9iyMmjV&#xD;
+Ei17d4obDPnS70DfOef7WPLTo3ZHDmVr0UxMXVGomGRPU101ZmNBwKgcw57MwR3pprBAlXY8Pfsm&#xD;
+b8uHR+9Ce30uWLj4VNvHXF/O9zrwabW2Wih+sQ==</SignatureValue></Signature></Person>
